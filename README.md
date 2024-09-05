@@ -19,16 +19,15 @@ Are you tired of endlessly copying and pasting your resume into job applications
 
 To get started, you’ll need to set up a Python virtual environment to keep things tidy. If you’re not familiar with virtual environments, don’t worry—it's like a sandbox for your Python projects. 🏖️
 
-1.**clone repository and open it's Folder:**<br>
+1. **Clone the repository and open its folder:**
+
     ```bash
-     git clone https://github.com/akshay-k-a-dev/LinkedIn_Automater_AI
-    ```
-    <br><br><br>
-    ```bash
+    git clone https://github.com/akshay-k-a-dev/LinkedIn_Automater_AI
     cd LinkedIn_Automater_AI
     ```
-    
+
 2. **Create a virtual environment:**
+
     ```bash
     python -m venv venv
     ```
@@ -45,14 +44,16 @@ To get started, you’ll need to set up a Python virtual environment to keep thi
      ```
 
 4. **Install dependencies:**
+
     ```bash
     pip install -r requirements.txt
     ```
-    
-5.**To Run:**
-```bash
-python3 main.py
-```
+
+5. **Run the application:**
+
+    ```bash
+    python3 main.py
+    ```
 
 ## Configuration
 
