@@ -21,9 +21,10 @@ To get started, you’ll need to set up a Python virtual environment to keep thi
 
 1.**clone repository and open it's Folder:***
     ```bash
-    git clone https://github.com/akshay-k-a-dev/LinkedIn_Automater_AI
-    cd LinkedIn_Automater_AI
+     git clone https://github.com/akshay-k-a-dev/LinkedIn_Automater_AI
+     cd LinkedIn_Automater_AI
     ```
+    
 2. **Create a virtual environment:**
     ```bash
     python -m venv venv
