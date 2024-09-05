@@ -23,7 +23,7 @@ To get started, you’ll need to set up a Python virtual environment to keep thi
     ```bash
      git clone https://github.com/akshay-k-a-dev/LinkedIn_Automater_AI
     ```
-    <br>
+    <br><br><br>
     ```bash
     cd LinkedIn_Automater_AI
     ```
